@@ -108,7 +108,6 @@ public class Services implements Service {
                         return;
                     }
                 });
-
         if (g[0] == 0) {
             System.out.println("No Bus Available");
             return;
